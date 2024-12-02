@@ -17,14 +17,30 @@
 
 # Hardware
 
-## Konstrukcje stacji DIY
+## Pełne konstrukcje stacji DIY
 
+- :uk: https://github.com/Uroboros67/rak_killer
 - :uk: https://github.com/chrismyers2000/MeshAdventurer
 - :uk: https://github.com/mrekin/MeshtasticCustomBoards
 - :ru:/:uk: https://github.com/NanoVHF/Meshtastic-DIY
+- :uk: https://adrelien.com/blog/meshtastic-diy-how-to-build-your-own-meshtastic-node-nrf52840-lora-radio/
+- :uk: https://uart.cz/en/2534/solar-mppt-charger-for-meshtastic/
+
+## Komponenty
+
 - :uk: https://github.com/joric/nrfmicro/wiki/
 
-# Modelowanie zasięgu radia
+## Anteny
+
+- :uk: DIY antena "ground plane" https://www.thethingsnetwork.org/forum/t/very-simple-homemade-outdoor-868mhz-antenna-groundplane/3160
+
+# Software
+
+## Diagnostyka węzła, narzędzia
+
+- MeshSense - Web GUI pokazujące status twojego noda (pakiety, sąsiedzi, mapa) https://github.com/Affirmatech/MeshSense
+
+## Modelowanie zasięgu radia
 
 - HeyWhatsThat https://www.heywhatsthat.com/profiler.html
 - CloudRF https://cloudrf.com/about/
