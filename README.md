@@ -16,3 +16,8 @@ Meshtastic jest idealny dla miłośników technologii, radioamatorów, grup eksp
 
 #### Zapraszamy do dołączenia do społeczności Meshtastic na czacie [Matrix](https://matrix.to/#/#meshtasticpl:matrix.org) i wspólnego rozwijania tej innowacyjnej technologii! 
 
+### Zawartość docs:
+- [01_jak_zaczac.md](docs/01_jak_zaczac.md)
+- [02_obliczanie_mocy_panelu_i_aku.md](docs/02_obliczanie_mocy_panelu_i_aku.md)
+- [03_linki.md](docs/03_linki.md)
+- [04_hop_limit_info.md](docs/04_hop_limit_info.md)
