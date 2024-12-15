@@ -9,7 +9,6 @@
 - Facebook
   - grupa "meshtastic Polska": https://www.facebook.com/groups/meshtasticpolska
   - grupa "Meshtastic małopolska - Kraków i okolice [868Mhz]": https://www.facebook.com/groups/mshmalopolska
-- Forum https://meshtastic.pop.pl/
 
 ## Świat
 - oficjalny spis społeczności lokalnych https://meshtastic.org/docs/community/local-groups
@@ -25,6 +24,7 @@
 - :ru:/:uk: https://github.com/NanoVHF/Meshtastic-DIY
 - :uk: https://adrelien.com/blog/meshtastic-diy-how-to-build-your-own-meshtastic-node-nrf52840-lora-radio/
 - :uk: https://uart.cz/en/2534/solar-mppt-charger-for-meshtastic/
+- :uk: https://github.com/noon92/femtofox/
 
 ## Komponenty
 
